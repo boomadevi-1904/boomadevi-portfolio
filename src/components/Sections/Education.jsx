@@ -7,7 +7,7 @@ const Education = () => {
     {
       degree: "B.Tech Information Technology",
       institution: "Kongu Engineering College, Perundurai",
-      score: "CGPA: 8.53 (4th sem)",
+      score: "CGPA: 8.38 (5th sem)",
       year: "2023 - 2027", // Assuming 4 years from 2023 based on '4th sem' context or start date
     },
     {
