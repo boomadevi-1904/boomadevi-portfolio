@@ -1,16 +1,108 @@
-# React + Vite
+# 🌐 Boomadevi – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built using **React** to showcase my skills, projects, and achievements.
 
-Currently, two official plugins are available:
+🔗 **Live Website:**  
+https://boomadevi-portfolio.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Modern Dark UI**: A clean and professional dark-themed user interface.
+- **Fully Responsive**: Optimized for all screen sizes, from mobile to desktop.
+- **Smooth Animations**: Interactive and fluid animations powered by **Framer Motion**.
+- **Contact Form**: Functional contact form integrated with **EmailJS**.
+- **Dynamic Sections**: Hero, Services, Projects, Education, Achievements, and Contact sections.
+- **Icons**: High-quality icons using **Lucide React** and **React Icons**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technical Tools & Skills
+
+### Frontend Stack
+- **React 19**: Modern frontend library for building user interfaces.
+- **JavaScript (ES6+)**: Core programming language.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **PostCSS & Autoprefixer**: For advanced CSS processing.
+
+### Libraries & Packages
+- **Framer Motion**: For complex and fluid web animations.
+- **Lucide React & React Icons**: Comprehensive icon libraries.
+- **EmailJS**: For handling email submissions directly from the frontend.
+- **Vite**: Next-generation frontend tooling for fast development.
+
+---
+
+## 📁 Project Structure
+
+```text
+BOOMADEVI-PORTFOLIO/
+├── public/               # Static assets (logo, profile picture)
+├── src/
+│   ├── assets/           # React and other SVG/image assets
+│   ├── components/
+│   │   ├── Layout/       # Global layout components
+│   │   │   ├── Header.jsx
+│   │   │   └── Footer.jsx
+│   │   └── Sections/     # Portfolio sections
+│   │       ├── Hero.jsx
+│   │       ├── Services.jsx
+│   │       ├── Projects.jsx
+│   │       ├── Education.jsx
+│   │       ├── Achievements.jsx
+│   │       └── Contact.jsx
+│   ├── App.jsx           # Root component
+│   ├── main.jsx          # Entry point
+│   └── index.css         # Global styles & Tailwind imports
+├── tailwind.config.js    # Tailwind CSS configuration
+├── vite.config.js        # Vite configuration
+└── package.json          # Project dependencies and scripts
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/boomadevi-2006/BOOMADEVI-PORTFOLIO.git
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the project locally
+
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:5173/`.
+
+---
+
+## 🎯 Areas of Interest
+
+- Frontend Web Development  
+- Full Stack Development  
+- UI / UX Design  
+- React Application Development  
+- Web Performance Optimization  
+
+---
+
+## 🤝 Contact Me
+
+Feel free to reach out via the contact form on the website or through my social media profiles.
+
+- **GitHub**: [boomadevi-2006](https://github.com/boomadevi-2006)
+- **LinkedIn**: [Your LinkedIn Profile]
+
+---
+
+Developed with ❤️ by Boomadevi.

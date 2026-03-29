@@ -31,7 +31,7 @@ const Services = () => {
     },
     {
       category: "Tools",
-      items: ["Visual Studio", "Github", "Postman","Vite"],
+      items: ["Visual Studio", "Github", "Postman","Vite","Git","Gitlab"],
       icon: <Wrench size={32} />
     },
     {
@@ -41,7 +41,7 @@ const Services = () => {
     },
     {
       category: "Soft Skills",
-      items: ["Self-Learner", "Adaptability", "Leadership", "Communication", "Critical-Thinking"],
+      items: ["Self-Learner", "Adaptability", "Leadership", "Communication", "Critical-Thinking","Teamwork","Problem-Solving","Time-Management","Quick-Learner"],
       icon: <Code size={32} />
     }
   ];

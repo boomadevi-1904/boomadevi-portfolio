@@ -26,7 +26,8 @@ const Achievements = () => {
     "MongoDB Associate Developer",
     "Github Foundation",
     "Oracle APEX Cloud Developer Certified Professional",
-    "Database Management System I"
+    "Database Management System I",
+    "Mastering Devops in GUVI"
   ];
 
   return (

@@ -5,6 +5,14 @@ import { motion } from 'framer-motion';
 const Projects = () => {
   const projects = [
     {
+  title: "SkillSwap – Peer-to-Peer Learning Platform",
+  description: "A platform where students teach, learn, schedule mentorship sessions, and collaborate through real-time chat.",
+  tech: ["MongoDB", "Express.js", "React.js", "Node.js", "Vercel", "Render"],
+  image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80",
+  link: "https://skill-swap-one-pink.vercel.app/",
+  github: "https://github.com/boomadevi-1904/Skill-Swap"
+    },
+    {
       title: "Online Bookstore",
       description: "An online platform to browse, search, and purchase your favorite books anytime.",
       tech: ["MERN Stack"],
@@ -18,7 +26,7 @@ const Projects = () => {
       tech: ["2DArray", "LinkedList", "Stack", "Java"],
       image: "https://images.unsplash.com/photo-1586165368502-1bad197a6461?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
       link: null,
-      github: "https://github.com/boomadevi-1904/chess-game"
+      github: "https://github.com/boomadevi-1904/ChessGame"
     },
     {
       title: "Rock Paper Scissors",

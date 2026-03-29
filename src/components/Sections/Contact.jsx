@@ -137,21 +137,31 @@ const Contact = () => {
                   </div>
 
                   <div className="flex items-center gap-4">
-                    <div className="p-3 bg-neon-green/10 rounded-full text-neon-green">
-                      <Github size={24} />
-                    </div>
-                    <div>
-                      <p className="text-gray-400 text-sm">GitHub</p>
-                      <a
-                        href="https://github.com/boomadevi-2006"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-white hover:text-neon-green transition-colors"
-                      >
-                        boomadevi-2006
-                      </a>
-                    </div>
-                  </div>
+  <div className="p-3 bg-neon-green/10 rounded-full text-neon-green">
+    <Github size={24} />
+  </div>
+  <div>
+    <p className="text-gray-400 text-sm">GitHub</p>
+
+    <a
+      href="https://github.com/boomadevi-2006"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="block text-white hover:text-neon-green transition-colors"
+    >
+      boomadevi-2006
+    </a>
+
+    <a
+      href="https://github.com/boomadevi-1904"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="block text-white hover:text-neon-green transition-colors"
+    >
+      boomadevi-1904
+    </a>
+  </div>
+</div>
                 </div>
               </div>
             </motion.div>
