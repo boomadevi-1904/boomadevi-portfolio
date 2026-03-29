@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built using **React 19** and **Tailwind CSS** to showcase my journey as an aspiring Full Stack Developer.
 
 🔗 **Live Website:**  
-[https://boomadevi-portfolio.netlify.app/](https://boomadevi-portfolio.netlify.app/)
+[https://boomadevi-portfolio.netlify.app/](https://boomadevi-s-portfolio.netlify.app/)
 
 ---
 
