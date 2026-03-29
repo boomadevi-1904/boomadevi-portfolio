@@ -1,36 +1,61 @@
 # 🌐 Boomadevi – Developer Portfolio
 
-A modern, responsive personal portfolio website built using **React** to showcase my skills, projects, and achievements.
+A modern, responsive personal portfolio website built using **React 19** and **Tailwind CSS** to showcase my journey as an aspiring Full Stack Developer.
 
 🔗 **Live Website:**  
-https://boomadevi-portfolio.netlify.app/
+[https://boomadevi-portfolio.netlify.app/](https://boomadevi-portfolio.netlify.app/)
 
 ---
 
 ## ✨ Features
 
-- **Modern Dark UI**: A clean and professional dark-themed user interface.
-- **Fully Responsive**: Optimized for all screen sizes, from mobile to desktop.
+- **Modern Dark UI**: A professional dark-themed user interface with neon accents.
+- **Fully Responsive**: Optimized for seamless viewing on mobile, tablet, and desktop devices.
 - **Smooth Animations**: Interactive and fluid animations powered by **Framer Motion**.
-- **Contact Form**: Functional contact form integrated with **EmailJS**.
-- **Dynamic Sections**: Hero, Services, Projects, Education, Achievements, and Contact sections.
-- **Icons**: High-quality icons using **Lucide React** and **React Icons**.
+- **Functional Contact Form**: Integrated with **EmailJS** for direct communication.
+- **Dynamic Content**: Sections for Projects, Education, Achievements, and Certifications.
 
 ---
 
 ## 🛠️ Technical Tools & Skills
 
 ### Frontend Stack
-- **React 19**: Modern frontend library for building user interfaces.
+- **React 19**: Modern frontend library for building reactive interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for custom, rapid UI development.
 - **JavaScript (ES6+)**: Core programming language.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **PostCSS & Autoprefixer**: For advanced CSS processing.
+- **Lucide React & React Icons**: High-quality icon sets.
 
-### Libraries & Packages
-- **Framer Motion**: For complex and fluid web animations.
-- **Lucide React & React Icons**: Comprehensive icon libraries.
+### Backend & Deployment
 - **EmailJS**: For handling email submissions directly from the frontend.
-- **Vite**: Next-generation frontend tooling for fast development.
+- **Vite**: Next-generation frontend tooling for ultra-fast development.
+- **Netlify**: Hosting and continuous deployment platform.
+
+---
+
+## 🚀 Featured Projects
+
+- **SkillSwap**: A peer-to-peer learning platform where students can teach, learn, and collaborate in real-time. (MongoDB, Express, React, Node)
+- **Online Bookstore**: A full-stack MERN platform to browse, search, and purchase books.
+- **Chess Game**: A two-player strategy game implemented with Java using complex data structures like Stacks and Linked Lists.
+- **Rock Paper Scissors**: A fast and fun player vs computer game with instant results.
+- **Weather App**: Real-time weather updates for any location worldwide using OpenWeatherMap API.
+
+---
+
+## 🏆 Achievements & Certifications
+
+### Awards
+- **Hackathon - 2nd Prize**: Kongu Engineering College (2025).
+- **Coding Competition - 2nd Prize**: Kongu Engineering College (2025).
+- **Logo Designing - 2nd Prize**: Kongu Engineering College (2024).
+- **Speech Competition - 1st Prize**: Kirshnaveni Govt Girls Hr Sec School (2023).
+
+### Certifications
+- **MongoDB Associate Developer**
+- **Github Foundation**
+- **Oracle APEX Cloud Developer Certified Professional**
+- **Database Management System I**
+- **Mastering Devops in GUVI**
 
 ---
 
@@ -40,70 +65,28 @@ https://boomadevi-portfolio.netlify.app/
 BOOMADEVI-PORTFOLIO/
 ├── public/               # Static assets (logo, profile picture)
 ├── src/
-│   ├── assets/           # React and other SVG/image assets
+│   ├── assets/           # SVG and other static image assets
 │   ├── components/
-│   │   ├── Layout/       # Global layout components
-│   │   │   ├── Header.jsx
-│   │   │   └── Footer.jsx
-│   │   └── Sections/     # Portfolio sections
-│   │       ├── Hero.jsx
-│   │       ├── Services.jsx
-│   │       ├── Projects.jsx
-│   │       ├── Education.jsx
-│   │       ├── Achievements.jsx
-│   │       └── Contact.jsx
-│   ├── App.jsx           # Root component
-│   ├── main.jsx          # Entry point
-│   └── index.css         # Global styles & Tailwind imports
-├── tailwind.config.js    # Tailwind CSS configuration
+│   │   ├── Layout/       # Global Header and Footer
+│   │   └── Sections/     # Portfolio sections (Hero, Projects, Education, etc.)
+│   ├── App.jsx           # Root application component
+│   ├── main.jsx          # Application entry point
+│   └── index.css         # Global styles & Tailwind CSS imports
+├── tailwind.config.js    # Tailwind configuration
 ├── vite.config.js        # Vite configuration
 └── package.json          # Project dependencies and scripts
 ```
 
 ---
 
-## 🚀 Getting Started
+## 🤝 Contact & Connect
 
-### Clone the repository
+Feel free to reach out via the contact form on the website or through my social media profiles:
 
-```bash
-git clone https://github.com/boomadevi-2006/BOOMADEVI-PORTFOLIO.git
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run the project locally
-
-```bash
-npm run dev
-```
-
-The application will be available at `http://localhost:5173/`.
-
----
-
-## 🎯 Areas of Interest
-
-- Frontend Web Development  
-- Full Stack Development  
-- UI / UX Design  
-- React Application Development  
-- Web Performance Optimization  
-
----
-
-## 🤝 Contact Me
-
-Feel free to reach out via the contact form on the website or through my social media profiles.
-
-- **GitHub**: [boomadevi-2006](https://github.com/boomadevi-2006)
-- **GitHub**: [boomadevi-1904](https://github.com/boomadevi-1904)
+- **Email**: [boomadevi1904@gmail.com](mailto:boomadevi1904@gmail.com)
+- **GitHub**: [boomadevi-2006](https://github.com/boomadevi-2006) | [boomadevi-1904](https://github.com/boomadevi-1904)
 - **LinkedIn**: [Boomadevi's LinkedIn Profile](https://www.linkedin.com/in/boomadevi-2006/)
 
 ---
 
-Developed with ❤️ by Boomadevi.
+Developed with ❤️ by **BOOMADEVI S**.
