@@ -101,7 +101,8 @@ The application will be available at `http://localhost:5173/`.
 Feel free to reach out via the contact form on the website or through my social media profiles.
 
 - **GitHub**: [boomadevi-2006](https://github.com/boomadevi-2006)
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [boomadevi-1904](https://github.com/boomadevi-1904)
+- **LinkedIn**: [Boomadevi's LinkedIn Profile](https://www.linkedin.com/in/boomadevi-2006/)
 
 ---
 
